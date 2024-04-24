@@ -1,5 +1,6 @@
-# LLM_Meta_Data_Generation
-Llama2 Project for Meta Data Generation using FAISS and RAGs 
+# Metadata Generation System with Retrieval-Augmented Generation
+
+This project implements a metadata generation system using Large Language Models (LLMs) and a vector database. The system leverages Retrieval-Augmented Generation (RAG) techniques to enhance the quality and relevance of generated metadata. We have used Llama2 LLM model for Meta Data Generation using FAISS and RAGs 
 
 ## FAISS Integration
 
@@ -14,11 +15,6 @@ The metadata generation system utilizes FAISS (Facebook AI Similarity Search) fo
 - **Ease of Integration:** FAISS provides a user-friendly interface and straightforward integration with Python, making it easy to incorporate into the metadata generation system.
 
 By leveraging FAISS, the system enhances its capability to retrieve and utilize relevant information from the vector database, ultimately improving the quality and relevance of the generated metadata.
-
-
-# Metadata Generation System with Retrieval-Augmented Generation
-
-This project implements a metadata generation system using Large Language Models (LLMs) and a vector database. The system leverages Retrieval-Augmented Generation (RAG) techniques to enhance the quality and relevance of generated metadata.
 
 ## Retrieval-Augmented Generation (RAG)
 
